@@ -19,7 +19,7 @@ export const yarg = yargs(hideBin(process.argv))
     .option('s', {
         alias: 'show',
         type: 'boolean',
-        default: true,
+        default: false,
         describe: 'Show multiplication table'
     })
     .option('n', {
