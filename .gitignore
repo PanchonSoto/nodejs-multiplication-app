@@ -2,4 +2,7 @@ node_modules/
 dis/
 outputs/
 outputtest/
+test-restination/
+custom-outputs/
+coverage/
 tabla.txt  
